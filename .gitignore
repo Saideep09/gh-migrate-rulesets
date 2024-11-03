@@ -1,0 +1,7 @@
+/gh-migrate-rulesets
+/gh-migrate-rulesets.exe
+
+*.csv
+
+.DS_Store
+.env
